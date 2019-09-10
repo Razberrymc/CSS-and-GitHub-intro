@@ -10,6 +10,8 @@ body {
 }
 
 article {
+    background: #0597F2;
+    color: #000;
     width: 800px; /* keep */
     padding: 20px; /* keep */
     margin: auto; /* keep */
@@ -26,11 +28,6 @@ aside {
 header, footer {
     background: #CFBFF8;
     color: #000;
-}
-
-article {
-  background: #0597F2;
-  color: #000;
 }
 
 figure {
